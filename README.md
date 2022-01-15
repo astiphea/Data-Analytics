@@ -1,4 +1,4 @@
-# Data-Analytics
+# Data-Analytics-Education
 Learning Resources for Data Analytics 
 
 https://www.springboard.com/library/data-science/how-to-build-portfolio/
